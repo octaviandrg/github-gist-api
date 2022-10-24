@@ -1,0 +1,15 @@
+
+@import "~antd/dist/antd.css";
+
+.paddingData {
+  padding-inline-start: 0;
+}
+.App {
+  margin-left: 1em;
+}
+
+.fileBox,.forksBox {
+  margin-top: 1em;
+  border: 1px solid red;
+  padding: 2px;
+}
